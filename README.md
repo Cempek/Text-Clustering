@@ -2,6 +2,10 @@
 
 BBC news dataset has 2225 news and 5 different categories.
 
+This data normally uses for classification.
+
+However, in this model, these labels have used in the test phase not in the training.
+
 * Business 
 * Politics 
 * Tech 
