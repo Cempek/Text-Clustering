@@ -1,6 +1,6 @@
 # Text-Clustering
 
-The dataset has 2225 news and 5 different categories.
+BBC news dataset has 2225 news and 5 different categories.
 
 * Business 
 * Politics 
